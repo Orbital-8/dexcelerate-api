@@ -1,2 +1,2 @@
 # dexcelerate-api
-API information for dexcelerate
+API documentation [here](api.pdf)
